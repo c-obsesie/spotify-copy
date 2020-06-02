@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React project Spotify Desktop copy
 
-![https://github.com/c-obsesie/spotify-copy/blob/master/Spotify.png]
+![Preview](https://github.com/c-obsesie/spotify-copy/blob/master/Spotify.png)
 
 In the project directory, you can run:
 
