@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## React project Spotify Desktop copy
+
+I am still working with on this project to develop Search and Library pages.
 
 ![Preview](https://github.com/c-obsesie/spotify-copy/blob/master/Spotify.png)
 
